@@ -1,7 +1,10 @@
 {
-  "books": [],
+  
   "Posts":[],
   "users":[],
- "demon":[]
+ "demon":[],
+ "admin":[],
+ "books":[],
+ "car":[]
   
 }
